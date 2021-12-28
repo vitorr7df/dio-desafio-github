@@ -1,6 +1,6 @@
-**"Se você persegue dois coelhos ao mesmo tempo, não vai conseguir pegar nenhum dos dois"**
+**"Se você persegue dois coelhos ao mesmo tempo, não vai conseguir pegar nenhum dos dois"** *Proverbio Russo* 
 
-*Proverbio Russo* 
+
 
 **GIT E GITHUB** 
 
@@ -32,11 +32,11 @@ Comandos usando o GitBash
 
 **OBJETOS**:
 
- *blobs*: Blocos básicos 
+ **blobs**: Blocos básicos 
 
-*tree*: Armazena blobs 
+**tree**: Armazena blobs 
 
-*commit*: Junta tudo 
+**commit**: Junta tudo 
 
 **git init**: Cria um repositorio 
 
@@ -44,7 +44,13 @@ Comandos usando o GitBash
 
 **mv**: Move um arquivo de pasta 
 
-**git commit -m "ex.: modificacao feita"**: Subir a aplicação do stage para modified 
+**git add .**: Adicionar os arquivos modificados 
+
+**git commit -m "ex.: modificacao feita"**: Subir a aplicação do stage para modified
+
+**git push origin main**: Envia os commits pra nuvem
+
+ 
 
 
 
